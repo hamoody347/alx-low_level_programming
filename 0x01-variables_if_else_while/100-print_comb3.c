@@ -33,4 +33,6 @@ int main(void)
 		digit1++;
 	}
 	putchar('\n');
+
+	return (0);
 }
