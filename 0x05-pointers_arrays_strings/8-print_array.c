@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print array - prints n elemts of arr type int
+ * print_array - prints n elemts of arr type int
  *
  * @n: elements param
  * @a: string param
