@@ -3,10 +3,10 @@
 /**
  * print array - prints n elemts of arr type int
  *
- * Description: This si a desc
- *
  * @n: elements param
  * @a: string param
+ *
+ * Description: This is a desc
  *
  * Return: Nothing
 */
